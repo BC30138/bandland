@@ -1,0 +1,19 @@
+.env
+dbdata
+.tmp
+.DS_Store
+
+# ide
+.idea
+.vscode
+
+# virtual env
+.venv
+venv
+
+# pyenv
+.python-version
+
+# python
+*.pyc
+__pycache__
